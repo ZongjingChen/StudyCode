@@ -1,2 +1,2 @@
-# studyCode
-The study codes by Zongjing Chen
+# StudyCode
+The study code by Zongjing Chen
