@@ -1,7 +1,7 @@
 package easy;
 
 /**
- * leetcode problem #67
+ * leet problem #67
  * 
  * Given two binary strings a and b, return their sum as a binary string.
  * 
